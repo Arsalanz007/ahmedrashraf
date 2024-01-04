@@ -3,7 +3,7 @@ I'm Ahmed Ashraf From Pakistan, and I do Websites & Mobile Applications developm
 
 
 ## Skills
-![My Skills](https://skillicons.dev/icons?i=react,nextjs,firebase,nodejs,apollo,graphql,mongodb,express,js,ts,redux,sass,flutter,bootstrap,materialui,netlify,css,html)
+![My Skills](https://skillicons.dev/icons?i=react,angular,firebase,nodejs,apollo,graphql,mongodb,express,js,ts,redux,sass,flutter,bootstrap,materialui,netlify,css,html)
 
 
 ## Git Overview
